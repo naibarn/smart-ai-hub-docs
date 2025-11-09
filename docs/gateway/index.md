@@ -67,7 +67,7 @@ Use API keys for authentication:
 
 ```bash
 curl -H "Authorization: Bearer YOUR_API_KEY" \
-     https://api.smart-ai-hub.com/v1/agents
+     https://api.smartaihub.app/v1/agents
 ```
 
 ### Rate Limits

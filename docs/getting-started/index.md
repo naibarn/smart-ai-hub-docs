@@ -21,7 +21,7 @@ Smart AI Hub is an **AI-powered workflow automation platform** that enables you 
 
 ### 1. Create an Account
 
-Visit [smart-ai-hub.com](https://smart-ai-hub.com) and sign up for a free account.
+Visit [smartaihub.app](https://smartaihub.app) and sign up for a free account.
 
 ### 2. Set Up Your Workspace
 
@@ -72,4 +72,6 @@ Smart AI Hub supports different user roles:
 
 ---
 
-Need help? Check our [FAQ](/faq) or [contact support](mailto:support@smart-ai-hub.com).
+Need help? Check our [FAQ](/faq) or [contact support](mailto:aimarkethubs@gmail.com).
+
+*Support provided by [AI Market Hubs](https://www.aimarkethubs.com)*

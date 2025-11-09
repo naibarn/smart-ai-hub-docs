@@ -13,7 +13,7 @@ Smart AI Hub is an AI-powered workflow automation platform that enables you to b
 
 ### Is Smart AI Hub free?
 
-We offer a free tier with limited features. For production use, please check our [pricing page](https://smart-ai-hub.com/pricing).
+We offer a free tier with limited features. For production use, please check our [pricing page](https://smartaihub.app/pricing).
 
 ### What LLM providers are supported?
 
@@ -37,7 +37,9 @@ Absolutely. We implement enterprise-grade security with RBAC, encryption, and co
 
 ### How do I contact support?
 
-Email us at support@smart-ai-hub.com or open an issue on [GitHub](https://github.com/naibarn/Smart-AI-Hub).
+Email us at aimarkethubs@gmail.com or open an issue on [GitHub](https://github.com/naibarn/Smart-AI-Hub).
+
+*Support provided by [AI Market Hubs](https://www.aimarkethubs.com)*
 
 ### Can I cancel my subscription anytime?
 
@@ -45,4 +47,6 @@ Yes, you can cancel your subscription at any time from your account settings.
 
 ---
 
-**Still have questions?** Contact us at support@smart-ai-hub.com
+**Still have questions?** Contact us at aimarkethubs@gmail.com
+
+*Support provided by [AI Market Hubs](https://www.aimarkethubs.com)*

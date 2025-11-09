@@ -26,7 +26,7 @@ Smart AI Hub integrates with 100+ external systems through MCP.
 Receive data from external systems:
 
 ```javascript
-POST https://api.smart-ai-hub.com/webhooks/{webhook_id}
+POST https://api.smartaihub.app/webhooks/{webhook_id}
 Content-Type: application/json
 
 {

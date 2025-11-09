@@ -58,6 +58,8 @@ Ready to get started? Check out our [Getting Started Guide](./getting-started/) 
 - 📖 Browse our [FAQ](./faq) for common questions
 - 🐛 Report issues on [GitHub](https://github.com/naibarn/Smart-AI-Hub)
 - 💬 Join our Discord community _(coming soon)_
-- 📧 Email us at support@smart-ai-hub.com
+- 📧 Email us at aimarkethubs@gmail.com
+
+*Support provided by [AI Market Hubs](https://www.aimarkethubs.com)*
 
 **Ready to build something amazing?** Let's get started! 🚀
