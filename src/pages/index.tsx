@@ -19,12 +19,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/getting-started">
+            to="/getting-started">
             Get Started →
           </Link>
           <Link
             className="button button--outline button--lg"
-            to="/docs/intro"
+            to="/architecture"
             style={{marginLeft: '1rem'}}>
             Learn More
           </Link>
@@ -53,7 +53,7 @@ function HomepageContent() {
         <div className="row" style={{marginTop: '3rem'}}>
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>🤖 AI-Powered Agents</h3>
+              <h3><Link to="/agents" style={{color: 'inherit', textDecoration: 'none'}}>🤖 AI-Powered Agents</Link></h3>
               <p>
                 Create intelligent agents that understand natural language, make decisions, and execute complex tasks 
                 autonomously. Our agent system supports multi-agent orchestration and seamless collaboration.
@@ -62,7 +62,7 @@ function HomepageContent() {
           </div>
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>🔌 Universal Integrations</h3>
+              <h3><Link to="/integrations" style={{color: 'inherit', textDecoration: 'none'}}>🔌 Universal Integrations</Link></h3>
               <p>
                 Connect to 100+ services and APIs out of the box. From databases to cloud services, CRM to analytics 
                 tools - integrate everything your business needs in one unified platform.
@@ -71,7 +71,7 @@ function HomepageContent() {
           </div>
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>⚡ No-Code Builder</h3>
+              <h3><Link to="/frontend" style={{color: 'inherit', textDecoration: 'none'}}>⚡ No-Code Builder</Link></h3>
               <p>
                 Visual workflow builder with drag-and-drop interface. Create sophisticated automation workflows without 
                 writing a single line of code. Perfect for both technical and non-technical users.
@@ -83,7 +83,7 @@ function HomepageContent() {
         <div className="row" style={{marginTop: '2rem'}}>
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>🔒 Enterprise Security</h3>
+              <h3><Link to="/security" style={{color: 'inherit', textDecoration: 'none'}}>🔒 Enterprise Security</Link></h3>
               <p>
                 Bank-grade security with end-to-end encryption, role-based access control, and comprehensive audit logs. 
                 SOC 2 Type II certified and GDPR compliant.
@@ -92,7 +92,7 @@ function HomepageContent() {
           </div>
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>📊 Real-time Analytics</h3>
+              <h3><Link to="/analytics" style={{color: 'inherit', textDecoration: 'none'}}>📊 Real-time Analytics</Link></h3>
               <p>
                 Monitor workflow performance, track agent activities, and gain insights with built-in analytics dashboard. 
                 Make data-driven decisions with comprehensive reporting.
@@ -101,7 +101,7 @@ function HomepageContent() {
           </div>
           <div className="col col--4">
             <div className="text--center padding-horiz--md">
-              <h3>🚀 Scalable Architecture</h3>
+              <h3><Link to="/architecture" style={{color: 'inherit', textDecoration: 'none'}}>🚀 Scalable Architecture</Link></h3>
               <p>
                 Built on modern microservices architecture with Kubernetes orchestration. Scale from prototype to 
                 production seamlessly, handling millions of workflow executions.
@@ -157,7 +157,7 @@ function HomepageContent() {
             </p>
             <Link
               className="button button--primary button--lg"
-              to="/docs/getting-started">
+              to="/getting-started">
               Start Building Now →
             </Link>
           </div>
